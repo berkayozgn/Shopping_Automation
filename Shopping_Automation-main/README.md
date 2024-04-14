@@ -1,1 +1,1 @@
-Elektronik malzemeler satan işyerine ait ürün fiyat sorgulama,satın alma,spet işlemleri vs. gibi işlemleri yapmaya olanak sağlayan panel.
+Elektronik malzemeler satan işyerine ait ürün fiyat sorgulama,satın alma,sepet işlemleri vs. gibi işlemleri yapmaya olanak sağlayan panel.
